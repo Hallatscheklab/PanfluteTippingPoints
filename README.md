@@ -7,6 +7,6 @@ Most of the data were taken by Olympus IX81 microscope with a 10x objective ever
 ### Magnification
 Data whose file name contains "4x" or "20x" were taken by a 4x or 20x objective respectively.
 ### Microscope
-For confocal images, Zeiss LSM 700 was used. For "DiffusivityMeasurement/Self_jammed" and "TempChange/30to20", Nikon Eclipse Ti was used.
+For confocal images, Zeiss LSM 700 was used. For "DiffusivityMeasurement/Self_jammed" and "TempChange/30to22", Nikon Eclipse Ti was used.
 ### Timelapse
 "JammingDynamics" was taken every 10 minutes, "PIV" was taken every 3 minutes, and "DiffusivityMeasurement/Self_gaseous" was taken every 30 seconds.
