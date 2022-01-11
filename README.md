@@ -14,3 +14,5 @@ For confocal images, Zeiss LSM 700 was used. For "DiffusivityMeasurement/Self_ja
 "JammingDynamics" was taken every 10 minutes, "PIV" was taken every 3 minutes, and "DiffusivityMeasurement/Self_gaseous" was taken every 30 seconds.
 
 ## Codes descriptions
+"growth_p.c" is a C code for doing the agent based Brownian dynamics simulation with input file "input.txt" 
+Compiled with gcc -o growth_p growth_p.c -O3 and ran with ./growth_p
