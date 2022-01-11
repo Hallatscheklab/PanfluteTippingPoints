@@ -1,0 +1,10 @@
+50000000 # Steps
+10000 # Output Frequency
+1 # N initial
+1.0 # Sigma
+10. # Boxlx
+20. # Boxly
+0.01 # Growth Rate
+50. # Spring constant
+1. # Diffusion
+0.0001 # Timestep
