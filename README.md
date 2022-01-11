@@ -1,7 +1,7 @@
 # PanfluteTippingPoints
 
 ## Introduction
-This repository contains data for the manuscript: Yuya Karita, David T. Limmer, Oskar Hallatschek, "Scale-dependent tipping points of bacterial colonization resistance", bioRxiv, 2021.
+This repository contains codes and data for the manuscript: Yuya Karita, David T. Limmer, Oskar Hallatschek, "Scale-dependent tipping points of bacterial colonization resistance", bioRxiv, 2021.
 Contact yuya.karita[at]berkeley.edu if you have any questions.
 
 ## Data descriptions
